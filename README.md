@@ -1,12 +1,5 @@
-- 👋 Hi, I’m @tfistiak
-- 👀 I’m interested in javascript
-- 🌱 I’m currently learning nextjs
-- 💞️ I’m looking to collaborate on js project
-- 📫 How to reach me istiak.themefisher@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Istiak Ahammad
 
-<!---
-tfistiak/tfistiak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+Hello! I'm Istiak Ahammad, a passionate and dedicated MERN Stack Developer. I enjoy building scalable web applications and continuously improving my skill set. I am committed to contributing to innovative projects and collaborating with others in the tech community.
